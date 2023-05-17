@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="https://instagram.com/032_lucas?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://instagram.com/032_lucas?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
 </div>
   
   ### Main skills:
