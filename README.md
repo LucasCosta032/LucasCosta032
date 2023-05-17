@@ -34,7 +34,6 @@
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
   
    <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
