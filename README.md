@@ -37,5 +37,12 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasCosta032}/count.svg" /></p> 
 <br></div>
+
+<div>
+  <a href="https://www.linkedin.com/in/lucas-salgado-da-costa-8b080a200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+
+
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
